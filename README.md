@@ -1,4 +1,4 @@
-# Lab 5: 
+# Lab 5: Buy Grades For Money
 
 ### Student Details:
 
